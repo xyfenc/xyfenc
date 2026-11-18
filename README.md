@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Zedric 👋</h1>
 
 <p align="center">
-  Reverse engineering and Android developer. I build tools like Lua Game Guardian, plus apps, bots and free web tools.
+  Reverse engineering  and Android developer. I build tools like Lua Game Guardian, plus apps, bots and free web tools.
 </p>
 
 <p align="center">
   <a href="https://my-portfolio-abts.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-my--portfolio--abts-17213b?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://exfenc-tools.vercel.app/"><img src="https://img.shields.io/badge/Exfenc_Tools-live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Exfenc Tools"></a>
+  <a href="https://oxfen-free.netlify.app/"><img src="https://img.shields.io/badge/OXFEN_Free-CPM_1-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="OXFEN Free"></a>
   <a href="https://t.me/OXFEN_bot"><img src="https://img.shields.io/badge/OXFEN_bot-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="OXFEN bot"></a>
 </p>
 
@@ -16,6 +17,7 @@
 
 - 🌐 **Portfolio:** [my-portfolio-abts.netlify.app](https://my-portfolio-abts.netlify.app/)
 - 🧰 **Exfenc Tools:** [exfenc-tools.vercel.app](https://exfenc-tools.vercel.app/)
+- 🆓 **OXFEN Free (CPM 1):** [oxfen-free.netlify.app](https://oxfen-free.netlify.app/)
 - 🤖 **OXFEN Telegram bot:** [@OXFEN_bot](https://t.me/OXFEN_bot)
 
 ## 🧠 Focus
@@ -35,6 +37,9 @@ A free utility workspace with 18 tools that stay out of your way. It includes:
 
 ### 🤖 [OXFEN Bot](https://t.me/OXFEN_bot)
 A Telegram bot offering CPM 1 and 2 tools. [Start it on Telegram](https://t.me/OXFEN_bot).
+
+### 🆓 [OXFEN Free](https://oxfen-free.netlify.app/)
+The free web version of the OXFEN bot, with limited features and for **CPM 1 only**. For the full CPM 1 and 2 toolset, use the [Telegram bot](https://t.me/OXFEN_bot).
 
 ## 🛠️ Tech & Tools
 
@@ -75,5 +80,6 @@ A Telegram bot offering CPM 1 and 2 tools. [Start it on Telegram](https://t.me/O
 <p align="center">
   <a href="https://my-portfolio-abts.netlify.app/">Portfolio</a> ·
   <a href="https://exfenc-tools.vercel.app/">Exfenc Tools</a> ·
+  <a href="https://oxfen-free.netlify.app/">OXFEN Free</a> ·
   <a href="https://t.me/OXFEN_bot">OXFEN Bot</a>
 </p>
