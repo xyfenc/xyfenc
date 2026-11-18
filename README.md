@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zedric 👋</h1>
 
 <p align="center">
-  University student and Android developer, building apps, bots and free web tools.
+  Reverse engineering and Android developer. I build tools like Lua Game Guardian, plus apps, bots and free web tools.
 </p>
 
 <p align="center">
@@ -18,6 +18,12 @@
 - 🧰 **Exfenc Tools:** [exfenc-tools.vercel.app](https://exfenc-tools.vercel.app/)
 - 🤖 **OXFEN Telegram bot:** [@OXFEN_bot](https://t.me/OXFEN_bot)
 
+## 🧠 Focus
+
+- 🔍 **Reverse engineering** is my main focus: studying how apps and games work under the hood
+- 🛠️ Building tools like **Game Guardian**, scripted in **Lua**
+- 📱 Android development, from apps to the backends I test them against
+
 ## 🚀 Biggest Projects
 
 ### 🧰 [Exfenc Tools](https://exfenc-tools.vercel.app/)
@@ -32,6 +38,7 @@ A Telegram bot offering CPM 1 and 2 tools. [Start it on Telegram](https://t.me/O
 
 ## 🛠️ Tech & Tools
 
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Netty](https://img.shields.io/badge/Netty-1A1A1A?style=flat-square&logoColor=white)
@@ -47,6 +54,7 @@ A Telegram bot offering CPM 1 and 2 tools. [Start it on Telegram](https://t.me/O
 
 ## ⚙️ What I'm Working On
 
+- 🔍 Reverse engineering and building Lua-based tools
 - 📱 Building and testing Android apps against a local backend (XAMPP with Apache and MySQL, Redis, and a Netty Java server)
 - 🧰 Adding more tools to Exfenc Tools
 - 🤖 Improving the OXFEN Telegram bot
@@ -69,4 +77,3 @@ A Telegram bot offering CPM 1 and 2 tools. [Start it on Telegram](https://t.me/O
   <a href="https://exfenc-tools.vercel.app/">Exfenc Tools</a> ·
   <a href="https://t.me/OXFEN_bot">OXFEN Bot</a>
 </p>
--->
